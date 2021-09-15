@@ -1,0 +1,16 @@
+.heading {
+    padding: 2rem;
+    text-align: center;
+    font-weight: 900;
+    font-size: 2rem;
+}
+
+.light {
+    font-weight: 200;
+}
+.h3 {
+    padding: 0.5rem;
+    text-align: center;
+    font-weight: 100;
+    font-size: 1rem;
+}
